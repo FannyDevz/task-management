@@ -4,7 +4,14 @@ Digikarir is an application for managing task in digitalku.
 
 ## Project Status
 
-This project is actively under development.
+This project is actively under development. 
+
+## Tech
+- [x] Laravel
+- [x] React
+- [x] BerryDashboard
+- [x] TailwindCss
+- [x] AWS S3 Support For Storage
 
 ## Installation
 
