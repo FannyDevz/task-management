@@ -39,7 +39,7 @@ Make sure you have PHP Version 8.2+ and Composer and NPM installed on your machi
     composer install
     ```
 
-4. Install dependencies using Composer:
+4. Install dependencies using NPM:
 
     ```bash
     npm install
