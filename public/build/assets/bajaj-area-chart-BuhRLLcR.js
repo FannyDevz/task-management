@@ -1,0 +1,1 @@
+const e={type:"area",height:95,options:{chart:{id:"support-chart",sparkline:{enabled:!0}},dataLabels:{enabled:!1},stroke:{curve:"smooth",width:1},tooltip:{fixed:{enabled:!1},x:{show:!1},y:{title:{formatter:()=>"Ticket "}},marker:{show:!1}}},series:[{data:[0,15,10,50,30,40,25]}]};export{e as default};

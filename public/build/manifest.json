@@ -1,0 +1,1595 @@
+{
+  "_AnimateButton-7VoLqtHA.js": {
+    "file": "assets/AnimateButton-7VoLqtHA.js",
+    "name": "AnimateButton",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js"
+    ]
+  },
+  "_AuthFooter-iA481VLM.js": {
+    "file": "assets/AuthFooter-iA481VLM.js",
+    "name": "AuthFooter",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Stack-DwGIaWtF.js",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_ButtonBase-BaSKCIsM.js"
+    ]
+  },
+  "_Avatar-CuEdzbgj.js": {
+    "file": "assets/Avatar-CuEdzbgj.js",
+    "name": "Avatar",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_styled-C0FZHnBx.js"
+    ]
+  },
+  "_Box-D1kdO_5C.js": {
+    "file": "assets/Box-D1kdO_5C.js",
+    "name": "Box",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js"
+    ]
+  },
+  "_Button-ZaiS309R.js": {
+    "file": "assets/Button-ZaiS309R.js",
+    "name": "Button",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_ButtonBase-BaSKCIsM.js"
+    ]
+  },
+  "_ButtonBase-BaSKCIsM.js": {
+    "file": "assets/ButtonBase-BaSKCIsM.js",
+    "name": "ButtonBase",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js"
+    ]
+  },
+  "_Card-Dde8zWup.js": {
+    "file": "assets/Card-Dde8zWup.js",
+    "name": "Card",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_Paper-DYZpTLBk.js"
+    ]
+  },
+  "_Checkbox-CT_28h44.js": {
+    "file": "assets/Checkbox-CT_28h44.js",
+    "name": "Checkbox",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_SwitchBase-D0rw31SM.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_styled-C0FZHnBx.js"
+    ]
+  },
+  "_CloudUpload-B05KmkIY.js": {
+    "file": "assets/CloudUpload-B05KmkIY.js",
+    "name": "CloudUpload",
+    "imports": [
+      "resources/js/app.jsx",
+      "_createSvgIcon-DLXAJmCt.js"
+    ]
+  },
+  "_Collapse-DUD3BrRl.js": {
+    "file": "assets/Collapse-DUD3BrRl.js",
+    "name": "Collapse",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_Menu-p9oL4fEs.js",
+      "_useTheme-8gOWLki3.js",
+      "_ButtonBase-BaSKCIsM.js"
+    ]
+  },
+  "_DialogActions-DFZmVKZj.js": {
+    "file": "assets/DialogActions-DFZmVKZj.js",
+    "name": "DialogActions",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js"
+    ]
+  },
+  "_EarningCard-abqmP1Hb.js": {
+    "file": "assets/EarningCard-abqmP1Hb.js",
+    "name": "EarningCard",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Card-Dde8zWup.js",
+      "_MainCard-EiJ0hFCZ.js",
+      "_Grid-eHh76ROR.js",
+      "_Skeleton-ixriAhXt.js"
+    ]
+  },
+  "_FormControlLabel-lktuA6rQ.js": {
+    "file": "assets/FormControlLabel-lktuA6rQ.js",
+    "name": "FormControlLabel",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_Stack-DwGIaWtF.js"
+    ]
+  },
+  "_Grid-eHh76ROR.js": {
+    "file": "assets/Grid-eHh76ROR.js",
+    "name": "Grid",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_useTheme-8gOWLki3.js"
+    ]
+  },
+  "_List-CXyXSyP1.js": {
+    "file": "assets/List-CXyXSyP1.js",
+    "name": "List",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js"
+    ]
+  },
+  "_ListItemText-NVhIwd6v.js": {
+    "file": "assets/ListItemText-NVhIwd6v.js",
+    "name": "ListItemText",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_List-CXyXSyP1.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_listItemTextClasses-DpneyaND.js"
+    ]
+  },
+  "_MainCard-EiJ0hFCZ.js": {
+    "file": "assets/MainCard-EiJ0hFCZ.js",
+    "name": "MainCard",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Card-Dde8zWup.js",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_dividerClasses-bW8O2ERs.js"
+    ]
+  },
+  "_Menu-p9oL4fEs.js": {
+    "file": "assets/Menu-p9oL4fEs.js",
+    "name": "Menu",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_useTheme-8gOWLki3.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_useControlled-DdB-UfLM.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_Paper-DYZpTLBk.js",
+      "_List-CXyXSyP1.js"
+    ]
+  },
+  "_MenuItem-DwkVvZLw.js": {
+    "file": "assets/MenuItem-DwkVvZLw.js",
+    "name": "MenuItem",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_List-CXyXSyP1.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_listItemTextClasses-DpneyaND.js"
+    ]
+  },
+  "_OutlinedInput-BTrjfxB3.js": {
+    "file": "assets/OutlinedInput-BTrjfxB3.js",
+    "name": "OutlinedInput",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_useControlled-DdB-UfLM.js"
+    ]
+  },
+  "_Paper-DYZpTLBk.js": {
+    "file": "assets/Paper-DYZpTLBk.js",
+    "name": "Paper",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js"
+    ]
+  },
+  "_Settings-CIjKCvP_.js": {
+    "file": "assets/Settings-CIjKCvP_.js",
+    "name": "Settings",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ButtonBase-BaSKCIsM.js"
+    ]
+  },
+  "_Skeleton-ixriAhXt.js": {
+    "file": "assets/Skeleton-ixriAhXt.js",
+    "name": "Skeleton",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_colorManipulator-C-bup5Lf.js"
+    ]
+  },
+  "_Stack-DwGIaWtF.js": {
+    "file": "assets/Stack-DwGIaWtF.js",
+    "name": "Stack",
+    "imports": [
+      "_styled-C0FZHnBx.js",
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js"
+    ]
+  },
+  "_Switch-Dlb06K4c.js": {
+    "file": "assets/Switch-Dlb06K4c.js",
+    "name": "Switch",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_SwitchBase-D0rw31SM.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_styled-C0FZHnBx.js",
+      "_useControlled-DdB-UfLM.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_Menu-p9oL4fEs.js",
+      "_mergeSlotProps-BjPRQx-Q.js"
+    ]
+  },
+  "_SwitchBase-D0rw31SM.js": {
+    "file": "assets/SwitchBase-D0rw31SM.js",
+    "name": "SwitchBase",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_useControlled-DdB-UfLM.js"
+    ]
+  },
+  "_TableChartOutlined-lP9Afxo6.js": {
+    "file": "assets/TableChartOutlined-lP9Afxo6.js",
+    "name": "TableChartOutlined",
+    "imports": [
+      "resources/js/app.jsx",
+      "_createSvgIcon-DLXAJmCt.js"
+    ]
+  },
+  "_TableSortLabel-bmnzR-5t.js": {
+    "file": "assets/TableSortLabel-bmnzR-5t.js",
+    "name": "TableSortLabel",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_useTheme-8gOWLki3.js",
+      "_Menu-p9oL4fEs.js",
+      "_Paper-DYZpTLBk.js",
+      "_useControlled-DdB-UfLM.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_index-pNJpYmNc.js",
+      "_TextField-BIRWMQ-U.js",
+      "_MenuItem-DwkVvZLw.js",
+      "_OutlinedInput-BTrjfxB3.js"
+    ]
+  },
+  "_TextField-BIRWMQ-U.js": {
+    "file": "assets/TextField-BIRWMQ-U.js",
+    "name": "TextField",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_useControlled-DdB-UfLM.js",
+      "_Menu-p9oL4fEs.js",
+      "_ButtonBase-BaSKCIsM.js"
+    ]
+  },
+  "_TotalIncomeCard-aGYwD-9J.js": {
+    "file": "assets/TotalIncomeCard-aGYwD-9J.js",
+    "name": "TotalIncomeCard",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Card-Dde8zWup.js",
+      "_List-CXyXSyP1.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_Skeleton-ixriAhXt.js"
+    ]
+  },
+  "_Typography-Bqs20sjh.js": {
+    "file": "assets/Typography-Bqs20sjh.js",
+    "name": "Typography",
+    "imports": [
+      "resources/js/app.jsx",
+      "_styled-C0FZHnBx.js"
+    ]
+  },
+  "_VisibilityOff-CGhNU3wL.js": {
+    "file": "assets/VisibilityOff-CGhNU3wL.js",
+    "name": "VisibilityOff",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Typography-Bqs20sjh.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_styled-C0FZHnBx.js",
+      "_createSvgIcon-DLXAJmCt.js"
+    ]
+  },
+  "_colorManipulator-C-bup5Lf.js": {
+    "file": "assets/colorManipulator-C-bup5Lf.js",
+    "name": "colorManipulator",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_constant-BW3H_i8K.js": {
+    "file": "assets/constant-BW3H_i8K.js",
+    "name": "constant"
+  },
+  "_createSvgIcon-DLXAJmCt.js": {
+    "file": "assets/createSvgIcon-DLXAJmCt.js",
+    "name": "createSvgIcon",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Typography-Bqs20sjh.js",
+      "_useControlled-DdB-UfLM.js"
+    ]
+  },
+  "_dateId-CjFr9C4o.js": {
+    "file": "assets/dateId-CjFr9C4o.js",
+    "name": "dateId"
+  },
+  "_dividerClasses-bW8O2ERs.js": {
+    "file": "assets/dividerClasses-bW8O2ERs.js",
+    "name": "dividerClasses",
+    "imports": [
+      "_Typography-Bqs20sjh.js"
+    ]
+  },
+  "_formik.esm-BQN2HfW2.js": {
+    "file": "assets/formik.esm-BQN2HfW2.js",
+    "name": "formik.esm",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_index-pNJpYmNc.js": {
+    "file": "assets/index-pNJpYmNc.js",
+    "name": "index",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Grid-eHh76ROR.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Box-D1kdO_5C.js",
+      "_Menu-p9oL4fEs.js",
+      "_Collapse-DUD3BrRl.js",
+      "_useTheme-8gOWLki3.js",
+      "_useControlled-DdB-UfLM.js",
+      "_Avatar-CuEdzbgj.js",
+      "_MainCard-EiJ0hFCZ.js",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_Paper-DYZpTLBk.js",
+      "_Stack-DwGIaWtF.js",
+      "_List-CXyXSyP1.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_TableChartOutlined-lP9Afxo6.js",
+      "_Card-Dde8zWup.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_constant-BW3H_i8K.js",
+      "_useSlot-Do-Z_5BL.js"
+    ],
+    "assets": [
+      "assets/user-round-QwaXuEgi.svg"
+    ]
+  },
+  "_index.esm-ChsRrnLc.js": {
+    "file": "assets/index.esm-ChsRrnLc.js",
+    "name": "index.esm",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_listItemIconClasses-mB_Wx-8p.js": {
+    "file": "assets/listItemIconClasses-mB_Wx-8p.js",
+    "name": "listItemIconClasses",
+    "imports": [
+      "_Typography-Bqs20sjh.js"
+    ]
+  },
+  "_listItemTextClasses-DpneyaND.js": {
+    "file": "assets/listItemTextClasses-DpneyaND.js",
+    "name": "listItemTextClasses",
+    "imports": [
+      "_Typography-Bqs20sjh.js"
+    ]
+  },
+  "_mergeSlotProps-BjPRQx-Q.js": {
+    "file": "assets/mergeSlotProps-BjPRQx-Q.js",
+    "name": "mergeSlotProps",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Typography-Bqs20sjh.js"
+    ]
+  },
+  "_react-apexcharts.min-CWll64PS.js": {
+    "file": "assets/react-apexcharts.min-CWll64PS.js",
+    "name": "react-apexcharts.min",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_styled-C0FZHnBx.js": {
+    "file": "assets/styled-C0FZHnBx.js",
+    "name": "styled",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_useControlled-DdB-UfLM.js": {
+    "file": "assets/useControlled-DdB-UfLM.js",
+    "name": "useControlled",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_useSlot-Do-Z_5BL.js": {
+    "file": "assets/useSlot-Do-Z_5BL.js",
+    "name": "useSlot",
+    "imports": [
+      "resources/js/app.jsx",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_ButtonBase-BaSKCIsM.js"
+    ]
+  },
+  "_useTheme-8gOWLki3.js": {
+    "file": "assets/useTheme-8gOWLki3.js",
+    "name": "useTheme",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-BVauFerr.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app-DWAluOGm.js",
+    "name": "app",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/pages/Auth/AuthCardWrapper.jsx",
+      "resources/js/pages/Auth/AuthWrapper.jsx",
+      "resources/js/pages/Auth/Forms/AuthLogin.jsx",
+      "resources/js/pages/Auth/Forms/AuthRegister.jsx",
+      "resources/js/pages/Auth/Layout/Login.jsx",
+      "resources/js/pages/Auth/Layout/Register.jsx",
+      "resources/js/pages/Categories/Index.jsx",
+      "resources/js/pages/Config/Fields/Index.jsx",
+      "resources/js/pages/Config/Options/Index.jsx",
+      "resources/js/pages/Dashboard/Announcement.jsx",
+      "resources/js/pages/Dashboard/BajajAreaChartCard.jsx",
+      "resources/js/pages/Dashboard/EarningCard.jsx",
+      "resources/js/pages/Dashboard/PopularCard.jsx",
+      "resources/js/pages/Dashboard/TotalGrowthBarChart.jsx",
+      "resources/js/pages/Dashboard/TotalIncomeDarkCard.jsx",
+      "resources/js/pages/Dashboard/TotalIncomeLightCard.jsx",
+      "resources/js/pages/Dashboard/TotalOrderLineChartCard.jsx",
+      "resources/js/pages/Dashboard/chart-data/bajaj-area-chart.jsx",
+      "resources/js/pages/Dashboard/chart-data/total-growth-bar-chart.jsx",
+      "resources/js/pages/Dashboard/chart-data/total-order-month-line-chart.jsx",
+      "resources/js/pages/Dashboard/chart-data/total-order-year-line-chart.jsx",
+      "resources/js/pages/Home.jsx",
+      "resources/js/pages/Permissions/Index.jsx",
+      "resources/js/pages/Profile/Index.jsx",
+      "resources/js/pages/Roles/Index.jsx",
+      "resources/js/pages/Settings/Index.jsx",
+      "resources/js/pages/Tasks/AllIndex.jsx",
+      "resources/js/pages/Tasks/Create.jsx",
+      "resources/js/pages/Tasks/Edit.jsx",
+      "resources/js/pages/Tasks/Index.jsx",
+      "resources/js/pages/Tasks/Search.jsx",
+      "resources/js/pages/Users/Index.jsx"
+    ]
+  },
+  "resources/js/assets/images/icons/earning.svg": {
+    "file": "assets/earning-CflkK_mt.svg",
+    "src": "resources/js/assets/images/icons/earning.svg"
+  },
+  "resources/js/assets/images/icons/social-google.svg": {
+    "file": "assets/social-google-D2E1hNni.svg",
+    "src": "resources/js/assets/images/icons/social-google.svg"
+  },
+  "resources/js/assets/images/users/user-round.svg": {
+    "file": "assets/user-round-QwaXuEgi.svg",
+    "src": "resources/js/assets/images/users/user-round.svg"
+  },
+  "resources/js/pages/Auth/AuthCardWrapper.jsx": {
+    "file": "assets/AuthCardWrapper-Cv9UYjIs.js",
+    "name": "AuthCardWrapper",
+    "src": "resources/js/pages/Auth/AuthCardWrapper.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_Box-D1kdO_5C.js",
+      "_Card-Dde8zWup.js",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_Paper-DYZpTLBk.js",
+      "_dividerClasses-bW8O2ERs.js"
+    ]
+  },
+  "resources/js/pages/Auth/AuthWrapper.jsx": {
+    "file": "assets/AuthWrapper-DPZ7L9i3.js",
+    "name": "AuthWrapper",
+    "src": "resources/js/pages/Auth/AuthWrapper.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_styled-C0FZHnBx.js",
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/pages/Auth/Forms/AuthLogin.jsx": {
+    "file": "assets/AuthLogin-BLAeOJQT.js",
+    "name": "AuthLogin",
+    "src": "resources/js/pages/Auth/Forms/AuthLogin.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.esm-ChsRrnLc.js",
+      "_formik.esm-BQN2HfW2.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_VisibilityOff-CGhNU3wL.js",
+      "_useTheme-8gOWLki3.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_Stack-DwGIaWtF.js",
+      "_FormControlLabel-lktuA6rQ.js",
+      "_Checkbox-CT_28h44.js",
+      "_Box-D1kdO_5C.js",
+      "_Button-ZaiS309R.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_useControlled-DdB-UfLM.js",
+      "_SwitchBase-D0rw31SM.js"
+    ]
+  },
+  "resources/js/pages/Auth/Forms/AuthRegister.jsx": {
+    "file": "assets/AuthRegister-lVgZMzvk.js",
+    "name": "AuthRegister",
+    "src": "resources/js/pages/Auth/Forms/AuthRegister.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.esm-ChsRrnLc.js",
+      "_formik.esm-BQN2HfW2.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_VisibilityOff-CGhNU3wL.js",
+      "_useTheme-8gOWLki3.js",
+      "_Grid-eHh76ROR.js",
+      "_TextField-BIRWMQ-U.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_Box-D1kdO_5C.js",
+      "_Typography-Bqs20sjh.js",
+      "_Button-ZaiS309R.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_styled-C0FZHnBx.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_useControlled-DdB-UfLM.js",
+      "_Menu-p9oL4fEs.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_Paper-DYZpTLBk.js",
+      "_List-CXyXSyP1.js"
+    ]
+  },
+  "resources/js/pages/Auth/Layout/Login.jsx": {
+    "file": "assets/Login-DU6IEQXq.js",
+    "name": "Login",
+    "src": "resources/js/pages/Auth/Layout/Login.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "resources/js/pages/Auth/AuthWrapper.jsx",
+      "resources/js/pages/Auth/AuthCardWrapper.jsx",
+      "resources/js/pages/Auth/Forms/AuthLogin.jsx",
+      "_AuthFooter-iA481VLM.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_Grid-eHh76ROR.js",
+      "_Stack-DwGIaWtF.js",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_MainCard-EiJ0hFCZ.js",
+      "_Card-Dde8zWup.js",
+      "_Paper-DYZpTLBk.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_Box-D1kdO_5C.js",
+      "_index.esm-ChsRrnLc.js",
+      "_formik.esm-BQN2HfW2.js",
+      "_VisibilityOff-CGhNU3wL.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_useControlled-DdB-UfLM.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_useTheme-8gOWLki3.js",
+      "_FormControlLabel-lktuA6rQ.js",
+      "_Checkbox-CT_28h44.js",
+      "_SwitchBase-D0rw31SM.js",
+      "_Button-ZaiS309R.js"
+    ]
+  },
+  "resources/js/pages/Auth/Layout/Register.jsx": {
+    "file": "assets/Register-BSrL1qIU.js",
+    "name": "Register",
+    "src": "resources/js/pages/Auth/Layout/Register.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "resources/js/pages/Auth/AuthWrapper.jsx",
+      "resources/js/pages/Auth/AuthCardWrapper.jsx",
+      "resources/js/pages/Auth/Forms/AuthRegister.jsx",
+      "_AuthFooter-iA481VLM.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_Grid-eHh76ROR.js",
+      "_Stack-DwGIaWtF.js",
+      "_Typography-Bqs20sjh.js",
+      "_MainCard-EiJ0hFCZ.js",
+      "_styled-C0FZHnBx.js",
+      "_Box-D1kdO_5C.js",
+      "_index.esm-ChsRrnLc.js",
+      "_formik.esm-BQN2HfW2.js",
+      "_VisibilityOff-CGhNU3wL.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_useControlled-DdB-UfLM.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_useTheme-8gOWLki3.js",
+      "_TextField-BIRWMQ-U.js",
+      "_Menu-p9oL4fEs.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_Paper-DYZpTLBk.js",
+      "_List-CXyXSyP1.js",
+      "_Button-ZaiS309R.js",
+      "_Card-Dde8zWup.js",
+      "_dividerClasses-bW8O2ERs.js"
+    ]
+  },
+  "resources/js/pages/Categories/Index.jsx": {
+    "file": "assets/Index-_2pnvsvR.js",
+    "name": "Index",
+    "src": "resources/js/pages/Categories/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_index-pNJpYmNc.js",
+      "_formik.esm-BQN2HfW2.js",
+      "_index.esm-ChsRrnLc.js",
+      "_Grid-eHh76ROR.js",
+      "_Button-ZaiS309R.js",
+      "_TextField-BIRWMQ-U.js",
+      "_TableSortLabel-bmnzR-5t.js",
+      "_Paper-DYZpTLBk.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_Settings-CIjKCvP_.js",
+      "_FormControlLabel-lktuA6rQ.js",
+      "_Checkbox-CT_28h44.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_DialogActions-DFZmVKZj.js",
+      "_Typography-Bqs20sjh.js",
+      "_Card-Dde8zWup.js",
+      "_styled-C0FZHnBx.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Box-D1kdO_5C.js",
+      "_Menu-p9oL4fEs.js",
+      "_useTheme-8gOWLki3.js",
+      "_useControlled-DdB-UfLM.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_List-CXyXSyP1.js",
+      "_Collapse-DUD3BrRl.js",
+      "_Avatar-CuEdzbgj.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_Stack-DwGIaWtF.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_listItemTextClasses-DpneyaND.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_TableChartOutlined-lP9Afxo6.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_constant-BW3H_i8K.js",
+      "_MenuItem-DwkVvZLw.js",
+      "_SwitchBase-D0rw31SM.js"
+    ]
+  },
+  "resources/js/pages/Config/Fields/Index.jsx": {
+    "file": "assets/Index-Bk3b7tNx.js",
+    "name": "Index",
+    "src": "resources/js/pages/Config/Fields/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_index-pNJpYmNc.js",
+      "_formik.esm-BQN2HfW2.js",
+      "_index.esm-ChsRrnLc.js",
+      "_Grid-eHh76ROR.js",
+      "_Button-ZaiS309R.js",
+      "_TextField-BIRWMQ-U.js",
+      "_TableSortLabel-bmnzR-5t.js",
+      "_Paper-DYZpTLBk.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_MenuItem-DwkVvZLw.js",
+      "_FormControlLabel-lktuA6rQ.js",
+      "_Checkbox-CT_28h44.js",
+      "_DialogActions-DFZmVKZj.js",
+      "_Typography-Bqs20sjh.js",
+      "_Card-Dde8zWup.js",
+      "_styled-C0FZHnBx.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Box-D1kdO_5C.js",
+      "_Menu-p9oL4fEs.js",
+      "_useTheme-8gOWLki3.js",
+      "_useControlled-DdB-UfLM.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_List-CXyXSyP1.js",
+      "_Collapse-DUD3BrRl.js",
+      "_Avatar-CuEdzbgj.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_Stack-DwGIaWtF.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_listItemTextClasses-DpneyaND.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_TableChartOutlined-lP9Afxo6.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_constant-BW3H_i8K.js",
+      "_SwitchBase-D0rw31SM.js"
+    ]
+  },
+  "resources/js/pages/Config/Options/Index.jsx": {
+    "file": "assets/Index-BBeIgL0d.js",
+    "name": "Index",
+    "src": "resources/js/pages/Config/Options/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_index-pNJpYmNc.js",
+      "_formik.esm-BQN2HfW2.js",
+      "_index.esm-ChsRrnLc.js",
+      "_Grid-eHh76ROR.js",
+      "_Button-ZaiS309R.js",
+      "_TextField-BIRWMQ-U.js",
+      "_TableSortLabel-bmnzR-5t.js",
+      "_Paper-DYZpTLBk.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_MenuItem-DwkVvZLw.js",
+      "_FormControlLabel-lktuA6rQ.js",
+      "_Checkbox-CT_28h44.js",
+      "_Box-D1kdO_5C.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_DialogActions-DFZmVKZj.js",
+      "_Typography-Bqs20sjh.js",
+      "_Card-Dde8zWup.js",
+      "_styled-C0FZHnBx.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_Menu-p9oL4fEs.js",
+      "_useTheme-8gOWLki3.js",
+      "_useControlled-DdB-UfLM.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_List-CXyXSyP1.js",
+      "_Collapse-DUD3BrRl.js",
+      "_Avatar-CuEdzbgj.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_Stack-DwGIaWtF.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_listItemTextClasses-DpneyaND.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_TableChartOutlined-lP9Afxo6.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_constant-BW3H_i8K.js",
+      "_SwitchBase-D0rw31SM.js"
+    ]
+  },
+  "resources/js/pages/Dashboard/Announcement.jsx": {
+    "file": "assets/Announcement-Do6AF8Kw.js",
+    "name": "Announcement",
+    "src": "resources/js/pages/Dashboard/Announcement.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_styled-C0FZHnBx.js",
+      "_useTheme-8gOWLki3.js",
+      "_Grid-eHh76ROR.js",
+      "_List-CXyXSyP1.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_Avatar-CuEdzbgj.js",
+      "_Typography-Bqs20sjh.js",
+      "_Card-Dde8zWup.js",
+      "_Paper-DYZpTLBk.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_listItemTextClasses-DpneyaND.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_mergeSlotProps-BjPRQx-Q.js"
+    ]
+  },
+  "resources/js/pages/Dashboard/BajajAreaChartCard.jsx": {
+    "file": "assets/BajajAreaChartCard-Cb3cwlRU.js",
+    "name": "BajajAreaChartCard",
+    "src": "resources/js/pages/Dashboard/BajajAreaChartCard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_react-apexcharts.min-CWll64PS.js",
+      "resources/js/pages/Dashboard/chart-data/bajaj-area-chart.jsx",
+      "_useTheme-8gOWLki3.js",
+      "_Card-Dde8zWup.js",
+      "_Grid-eHh76ROR.js",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_Paper-DYZpTLBk.js"
+    ]
+  },
+  "resources/js/pages/Dashboard/EarningCard.jsx": {
+    "file": "assets/EarningCard-CYj3KNgs.js",
+    "name": "EarningCard",
+    "src": "resources/js/pages/Dashboard/EarningCard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_EarningCard-abqmP1Hb.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_useTheme-8gOWLki3.js",
+      "_Box-D1kdO_5C.js",
+      "_Grid-eHh76ROR.js",
+      "_Avatar-CuEdzbgj.js",
+      "_Menu-p9oL4fEs.js",
+      "_MenuItem-DwkVvZLw.js",
+      "_Typography-Bqs20sjh.js",
+      "_Card-Dde8zWup.js",
+      "_styled-C0FZHnBx.js",
+      "_Paper-DYZpTLBk.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_Skeleton-ixriAhXt.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_useControlled-DdB-UfLM.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_List-CXyXSyP1.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_listItemTextClasses-DpneyaND.js"
+    ],
+    "assets": [
+      "assets/earning-CflkK_mt.svg"
+    ]
+  },
+  "resources/js/pages/Dashboard/PopularCard.jsx": {
+    "file": "assets/PopularCard-zK8lERR5.js",
+    "name": "PopularCard",
+    "src": "resources/js/pages/Dashboard/PopularCard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "resources/js/pages/Dashboard/BajajAreaChartCard.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_constant-BW3H_i8K.js",
+      "_Card-Dde8zWup.js",
+      "_Grid-eHh76ROR.js",
+      "_Skeleton-ixriAhXt.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_Typography-Bqs20sjh.js",
+      "_Menu-p9oL4fEs.js",
+      "_MenuItem-DwkVvZLw.js",
+      "_Avatar-CuEdzbgj.js",
+      "_styled-C0FZHnBx.js",
+      "_Button-ZaiS309R.js",
+      "_react-apexcharts.min-CWll64PS.js",
+      "resources/js/pages/Dashboard/chart-data/bajaj-area-chart.jsx",
+      "_useTheme-8gOWLki3.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_Paper-DYZpTLBk.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_useControlled-DdB-UfLM.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_List-CXyXSyP1.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_listItemTextClasses-DpneyaND.js",
+      "_useSlot-Do-Z_5BL.js"
+    ]
+  },
+  "resources/js/pages/Dashboard/TotalGrowthBarChart.jsx": {
+    "file": "assets/TotalGrowthBarChart-B3wS6VHs.js",
+    "name": "TotalGrowthBarChart",
+    "src": "resources/js/pages/Dashboard/TotalGrowthBarChart.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_react-apexcharts.min-CWll64PS.js",
+      "_constant-BW3H_i8K.js",
+      "_Card-Dde8zWup.js",
+      "_MainCard-EiJ0hFCZ.js",
+      "_Grid-eHh76ROR.js",
+      "_Skeleton-ixriAhXt.js",
+      "resources/js/pages/Dashboard/chart-data/total-growth-bar-chart.jsx",
+      "_useTheme-8gOWLki3.js",
+      "_Typography-Bqs20sjh.js",
+      "_TextField-BIRWMQ-U.js",
+      "_MenuItem-DwkVvZLw.js",
+      "_styled-C0FZHnBx.js",
+      "_Paper-DYZpTLBk.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_useControlled-DdB-UfLM.js",
+      "_Menu-p9oL4fEs.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_List-CXyXSyP1.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_listItemTextClasses-DpneyaND.js"
+    ]
+  },
+  "resources/js/pages/Dashboard/TotalIncomeDarkCard.jsx": {
+    "file": "assets/TotalIncomeDarkCard-CskydZEw.js",
+    "name": "TotalIncomeDarkCard",
+    "src": "resources/js/pages/Dashboard/TotalIncomeDarkCard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_TotalIncomeCard-aGYwD-9J.js",
+      "_TableChartOutlined-lP9Afxo6.js",
+      "_styled-C0FZHnBx.js",
+      "_useTheme-8gOWLki3.js",
+      "_Box-D1kdO_5C.js",
+      "_List-CXyXSyP1.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_Avatar-CuEdzbgj.js",
+      "_Typography-Bqs20sjh.js",
+      "_Card-Dde8zWup.js",
+      "_Paper-DYZpTLBk.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_Skeleton-ixriAhXt.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_useControlled-DdB-UfLM.js",
+      "_listItemTextClasses-DpneyaND.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_mergeSlotProps-BjPRQx-Q.js"
+    ]
+  },
+  "resources/js/pages/Dashboard/TotalIncomeLightCard.jsx": {
+    "file": "assets/TotalIncomeLightCard-CpcJDCno.js",
+    "name": "TotalIncomeLightCard",
+    "src": "resources/js/pages/Dashboard/TotalIncomeLightCard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_TotalIncomeCard-aGYwD-9J.js",
+      "_styled-C0FZHnBx.js",
+      "_useTheme-8gOWLki3.js",
+      "_Box-D1kdO_5C.js",
+      "_List-CXyXSyP1.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_Avatar-CuEdzbgj.js",
+      "_Typography-Bqs20sjh.js",
+      "_Card-Dde8zWup.js",
+      "_Paper-DYZpTLBk.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_Skeleton-ixriAhXt.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_listItemTextClasses-DpneyaND.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_mergeSlotProps-BjPRQx-Q.js"
+    ]
+  },
+  "resources/js/pages/Dashboard/TotalOrderLineChartCard.jsx": {
+    "file": "assets/TotalOrderLineChartCard-DgZLaXzo.js",
+    "name": "TotalOrderLineChartCard",
+    "src": "resources/js/pages/Dashboard/TotalOrderLineChartCard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_react-apexcharts.min-CWll64PS.js",
+      "_MainCard-EiJ0hFCZ.js",
+      "_EarningCard-abqmP1Hb.js",
+      "resources/js/pages/Dashboard/chart-data/total-order-month-line-chart.jsx",
+      "resources/js/pages/Dashboard/chart-data/total-order-year-line-chart.jsx",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_useTheme-8gOWLki3.js",
+      "_Box-D1kdO_5C.js",
+      "_Grid-eHh76ROR.js",
+      "_Avatar-CuEdzbgj.js",
+      "_Button-ZaiS309R.js",
+      "_Typography-Bqs20sjh.js",
+      "_Card-Dde8zWup.js",
+      "_styled-C0FZHnBx.js",
+      "_Paper-DYZpTLBk.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_Skeleton-ixriAhXt.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_useControlled-DdB-UfLM.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_mergeSlotProps-BjPRQx-Q.js"
+    ]
+  },
+  "resources/js/pages/Dashboard/chart-data/bajaj-area-chart.jsx": {
+    "file": "assets/bajaj-area-chart-BuhRLLcR.js",
+    "name": "bajaj-area-chart",
+    "src": "resources/js/pages/Dashboard/chart-data/bajaj-area-chart.jsx",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/Dashboard/chart-data/total-growth-bar-chart.jsx": {
+    "file": "assets/total-growth-bar-chart-x1SwjEVc.js",
+    "name": "total-growth-bar-chart",
+    "src": "resources/js/pages/Dashboard/chart-data/total-growth-bar-chart.jsx",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/Dashboard/chart-data/total-order-month-line-chart.jsx": {
+    "file": "assets/total-order-month-line-chart-zqV0xrqU.js",
+    "name": "total-order-month-line-chart",
+    "src": "resources/js/pages/Dashboard/chart-data/total-order-month-line-chart.jsx",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/Dashboard/chart-data/total-order-year-line-chart.jsx": {
+    "file": "assets/total-order-year-line-chart-Dk7e0a31.js",
+    "name": "total-order-year-line-chart",
+    "src": "resources/js/pages/Dashboard/chart-data/total-order-year-line-chart.jsx",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/Home.jsx": {
+    "file": "assets/Home-cbuYTmN7.js",
+    "name": "Home",
+    "src": "resources/js/pages/Home.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_index-pNJpYmNc.js",
+      "resources/js/pages/Dashboard/EarningCard.jsx",
+      "resources/js/pages/Dashboard/TotalOrderLineChartCard.jsx",
+      "resources/js/pages/Dashboard/TotalIncomeDarkCard.jsx",
+      "resources/js/pages/Dashboard/TotalIncomeLightCard.jsx",
+      "_createSvgIcon-DLXAJmCt.js",
+      "resources/js/pages/Dashboard/TotalGrowthBarChart.jsx",
+      "resources/js/pages/Dashboard/PopularCard.jsx",
+      "_constant-BW3H_i8K.js",
+      "resources/js/pages/Dashboard/Announcement.jsx",
+      "_Grid-eHh76ROR.js",
+      "_Card-Dde8zWup.js",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_Paper-DYZpTLBk.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Box-D1kdO_5C.js",
+      "_Menu-p9oL4fEs.js",
+      "_useTheme-8gOWLki3.js",
+      "_useControlled-DdB-UfLM.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_List-CXyXSyP1.js",
+      "_Collapse-DUD3BrRl.js",
+      "_Avatar-CuEdzbgj.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_Stack-DwGIaWtF.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_listItemTextClasses-DpneyaND.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_TableChartOutlined-lP9Afxo6.js",
+      "_EarningCard-abqmP1Hb.js",
+      "_Skeleton-ixriAhXt.js",
+      "_MenuItem-DwkVvZLw.js",
+      "_react-apexcharts.min-CWll64PS.js",
+      "resources/js/pages/Dashboard/chart-data/total-order-month-line-chart.jsx",
+      "resources/js/pages/Dashboard/chart-data/total-order-year-line-chart.jsx",
+      "_Button-ZaiS309R.js",
+      "_TotalIncomeCard-aGYwD-9J.js",
+      "resources/js/pages/Dashboard/chart-data/total-growth-bar-chart.jsx",
+      "_TextField-BIRWMQ-U.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "resources/js/pages/Dashboard/BajajAreaChartCard.jsx",
+      "resources/js/pages/Dashboard/chart-data/bajaj-area-chart.jsx"
+    ]
+  },
+  "resources/js/pages/Permissions/Index.jsx": {
+    "file": "assets/Index-DwbPOuZ2.js",
+    "name": "Index",
+    "src": "resources/js/pages/Permissions/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_index-pNJpYmNc.js",
+      "_formik.esm-BQN2HfW2.js",
+      "_Grid-eHh76ROR.js",
+      "_TextField-BIRWMQ-U.js",
+      "_Button-ZaiS309R.js",
+      "_TableSortLabel-bmnzR-5t.js",
+      "_Paper-DYZpTLBk.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_Settings-CIjKCvP_.js",
+      "_FormControlLabel-lktuA6rQ.js",
+      "_Checkbox-CT_28h44.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_DialogActions-DFZmVKZj.js",
+      "_Card-Dde8zWup.js",
+      "_Typography-Bqs20sjh.js",
+      "_styled-C0FZHnBx.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Box-D1kdO_5C.js",
+      "_Menu-p9oL4fEs.js",
+      "_useTheme-8gOWLki3.js",
+      "_useControlled-DdB-UfLM.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_List-CXyXSyP1.js",
+      "_Collapse-DUD3BrRl.js",
+      "_Avatar-CuEdzbgj.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_Stack-DwGIaWtF.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_listItemTextClasses-DpneyaND.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_TableChartOutlined-lP9Afxo6.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_constant-BW3H_i8K.js",
+      "_MenuItem-DwkVvZLw.js",
+      "_SwitchBase-D0rw31SM.js"
+    ]
+  },
+  "resources/js/pages/Profile/Index.jsx": {
+    "file": "assets/Index-D1fePKYO.js",
+    "name": "Index",
+    "src": "resources/js/pages/Profile/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_index-pNJpYmNc.js",
+      "_formik.esm-BQN2HfW2.js",
+      "_index.esm-ChsRrnLc.js",
+      "_VisibilityOff-CGhNU3wL.js",
+      "_Grid-eHh76ROR.js",
+      "_Typography-Bqs20sjh.js",
+      "_TextField-BIRWMQ-U.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_FormControlLabel-lktuA6rQ.js",
+      "_Checkbox-CT_28h44.js",
+      "_DialogActions-DFZmVKZj.js",
+      "_Button-ZaiS309R.js",
+      "_Avatar-CuEdzbgj.js",
+      "_List-CXyXSyP1.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_Card-Dde8zWup.js",
+      "_styled-C0FZHnBx.js",
+      "_Paper-DYZpTLBk.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Box-D1kdO_5C.js",
+      "_Menu-p9oL4fEs.js",
+      "_useTheme-8gOWLki3.js",
+      "_useControlled-DdB-UfLM.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_Collapse-DUD3BrRl.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_Stack-DwGIaWtF.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_TableChartOutlined-lP9Afxo6.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_constant-BW3H_i8K.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_SwitchBase-D0rw31SM.js",
+      "_listItemTextClasses-DpneyaND.js"
+    ]
+  },
+  "resources/js/pages/Roles/Index.jsx": {
+    "file": "assets/Index-Db6zQUXD.js",
+    "name": "Index",
+    "src": "resources/js/pages/Roles/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_index-pNJpYmNc.js",
+      "_formik.esm-BQN2HfW2.js",
+      "_index.esm-ChsRrnLc.js",
+      "_Grid-eHh76ROR.js",
+      "_Button-ZaiS309R.js",
+      "_TextField-BIRWMQ-U.js",
+      "_TableSortLabel-bmnzR-5t.js",
+      "_Paper-DYZpTLBk.js",
+      "_DialogActions-DFZmVKZj.js",
+      "_Typography-Bqs20sjh.js",
+      "_Card-Dde8zWup.js",
+      "_styled-C0FZHnBx.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Box-D1kdO_5C.js",
+      "_Menu-p9oL4fEs.js",
+      "_useTheme-8gOWLki3.js",
+      "_useControlled-DdB-UfLM.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_List-CXyXSyP1.js",
+      "_Collapse-DUD3BrRl.js",
+      "_Avatar-CuEdzbgj.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_Stack-DwGIaWtF.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_listItemTextClasses-DpneyaND.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_TableChartOutlined-lP9Afxo6.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_constant-BW3H_i8K.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_MenuItem-DwkVvZLw.js"
+    ]
+  },
+  "resources/js/pages/Settings/Index.jsx": {
+    "file": "assets/Index-DyDnzXhy.js",
+    "name": "Index",
+    "src": "resources/js/pages/Settings/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_index-pNJpYmNc.js",
+      "_formik.esm-BQN2HfW2.js",
+      "_index.esm-ChsRrnLc.js",
+      "_CloudUpload-B05KmkIY.js",
+      "_Grid-eHh76ROR.js",
+      "_TextField-BIRWMQ-U.js",
+      "_Typography-Bqs20sjh.js",
+      "_Button-ZaiS309R.js",
+      "_DialogActions-DFZmVKZj.js",
+      "_Card-Dde8zWup.js",
+      "_styled-C0FZHnBx.js",
+      "_Paper-DYZpTLBk.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Box-D1kdO_5C.js",
+      "_Menu-p9oL4fEs.js",
+      "_useTheme-8gOWLki3.js",
+      "_useControlled-DdB-UfLM.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_List-CXyXSyP1.js",
+      "_Collapse-DUD3BrRl.js",
+      "_Avatar-CuEdzbgj.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_Stack-DwGIaWtF.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_listItemTextClasses-DpneyaND.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_TableChartOutlined-lP9Afxo6.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_constant-BW3H_i8K.js",
+      "_OutlinedInput-BTrjfxB3.js"
+    ]
+  },
+  "resources/js/pages/Tasks/AllIndex.jsx": {
+    "file": "assets/AllIndex-DszBUj3F.js",
+    "name": "AllIndex",
+    "src": "resources/js/pages/Tasks/AllIndex.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_index-pNJpYmNc.js",
+      "_dateId-CjFr9C4o.js",
+      "_formik.esm-BQN2HfW2.js",
+      "resources/js/pages/Tasks/Search.jsx",
+      "_Grid-eHh76ROR.js",
+      "_Button-ZaiS309R.js",
+      "_TableSortLabel-bmnzR-5t.js",
+      "_Paper-DYZpTLBk.js",
+      "_Checkbox-CT_28h44.js",
+      "_Box-D1kdO_5C.js",
+      "_Typography-Bqs20sjh.js",
+      "_List-CXyXSyP1.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_DialogActions-DFZmVKZj.js",
+      "_styled-C0FZHnBx.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_TextField-BIRWMQ-U.js",
+      "_MenuItem-DwkVvZLw.js",
+      "_Card-Dde8zWup.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Menu-p9oL4fEs.js",
+      "_useTheme-8gOWLki3.js",
+      "_useControlled-DdB-UfLM.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_Collapse-DUD3BrRl.js",
+      "_Avatar-CuEdzbgj.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_Stack-DwGIaWtF.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_TableChartOutlined-lP9Afxo6.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_constant-BW3H_i8K.js",
+      "_SwitchBase-D0rw31SM.js",
+      "_listItemTextClasses-DpneyaND.js"
+    ]
+  },
+  "resources/js/pages/Tasks/Create.jsx": {
+    "file": "assets/Create--Nd6DuZt.js",
+    "name": "Create",
+    "src": "resources/js/pages/Tasks/Create.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_index-pNJpYmNc.js",
+      "_formik.esm-BQN2HfW2.js",
+      "_index.esm-ChsRrnLc.js",
+      "_CloudUpload-B05KmkIY.js",
+      "_styled-C0FZHnBx.js",
+      "_Grid-eHh76ROR.js",
+      "_TextField-BIRWMQ-U.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_MenuItem-DwkVvZLw.js",
+      "_Button-ZaiS309R.js",
+      "_Typography-Bqs20sjh.js",
+      "_Box-D1kdO_5C.js",
+      "_Switch-Dlb06K4c.js",
+      "_FormControlLabel-lktuA6rQ.js",
+      "_Card-Dde8zWup.js",
+      "_Paper-DYZpTLBk.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Menu-p9oL4fEs.js",
+      "_useTheme-8gOWLki3.js",
+      "_useControlled-DdB-UfLM.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_List-CXyXSyP1.js",
+      "_Collapse-DUD3BrRl.js",
+      "_Avatar-CuEdzbgj.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_Stack-DwGIaWtF.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_listItemTextClasses-DpneyaND.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_TableChartOutlined-lP9Afxo6.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_constant-BW3H_i8K.js",
+      "_SwitchBase-D0rw31SM.js"
+    ]
+  },
+  "resources/js/pages/Tasks/Edit.jsx": {
+    "file": "assets/Edit-DoBIxvLs.js",
+    "name": "Edit",
+    "src": "resources/js/pages/Tasks/Edit.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_index-pNJpYmNc.js",
+      "_formik.esm-BQN2HfW2.js",
+      "_index.esm-ChsRrnLc.js",
+      "_CloudUpload-B05KmkIY.js",
+      "_styled-C0FZHnBx.js",
+      "_Grid-eHh76ROR.js",
+      "_Button-ZaiS309R.js",
+      "_TextField-BIRWMQ-U.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_MenuItem-DwkVvZLw.js",
+      "_Typography-Bqs20sjh.js",
+      "_Box-D1kdO_5C.js",
+      "_Switch-Dlb06K4c.js",
+      "_FormControlLabel-lktuA6rQ.js",
+      "_Card-Dde8zWup.js",
+      "_Paper-DYZpTLBk.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Menu-p9oL4fEs.js",
+      "_useTheme-8gOWLki3.js",
+      "_useControlled-DdB-UfLM.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_List-CXyXSyP1.js",
+      "_Collapse-DUD3BrRl.js",
+      "_Avatar-CuEdzbgj.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_Stack-DwGIaWtF.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_listItemTextClasses-DpneyaND.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_TableChartOutlined-lP9Afxo6.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_constant-BW3H_i8K.js",
+      "_SwitchBase-D0rw31SM.js"
+    ]
+  },
+  "resources/js/pages/Tasks/Index.jsx": {
+    "file": "assets/Index-BwVFBW6g.js",
+    "name": "Index",
+    "src": "resources/js/pages/Tasks/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_index-pNJpYmNc.js",
+      "_dateId-CjFr9C4o.js",
+      "resources/js/pages/Tasks/Search.jsx",
+      "_Grid-eHh76ROR.js",
+      "_Button-ZaiS309R.js",
+      "_TableSortLabel-bmnzR-5t.js",
+      "_Paper-DYZpTLBk.js",
+      "_Checkbox-CT_28h44.js",
+      "_Box-D1kdO_5C.js",
+      "_Typography-Bqs20sjh.js",
+      "_List-CXyXSyP1.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_DialogActions-DFZmVKZj.js",
+      "_Card-Dde8zWup.js",
+      "_styled-C0FZHnBx.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Menu-p9oL4fEs.js",
+      "_useTheme-8gOWLki3.js",
+      "_useControlled-DdB-UfLM.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_Collapse-DUD3BrRl.js",
+      "_Avatar-CuEdzbgj.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_Stack-DwGIaWtF.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_TableChartOutlined-lP9Afxo6.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_constant-BW3H_i8K.js",
+      "_formik.esm-BQN2HfW2.js",
+      "_TextField-BIRWMQ-U.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_MenuItem-DwkVvZLw.js",
+      "_listItemTextClasses-DpneyaND.js",
+      "_SwitchBase-D0rw31SM.js"
+    ]
+  },
+  "resources/js/pages/Tasks/Search.jsx": {
+    "file": "assets/Search-O59o63yn.js",
+    "name": "Search",
+    "src": "resources/js/pages/Tasks/Search.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_formik.esm-BQN2HfW2.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_Menu-p9oL4fEs.js",
+      "_Typography-Bqs20sjh.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_styled-C0FZHnBx.js",
+      "_Paper-DYZpTLBk.js",
+      "_useControlled-DdB-UfLM.js",
+      "_Collapse-DUD3BrRl.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Grid-eHh76ROR.js",
+      "_TextField-BIRWMQ-U.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_MenuItem-DwkVvZLw.js",
+      "_Button-ZaiS309R.js",
+      "_useTheme-8gOWLki3.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_List-CXyXSyP1.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_listItemTextClasses-DpneyaND.js"
+    ]
+  },
+  "resources/js/pages/Users/Index.jsx": {
+    "file": "assets/Index-BgX4PKC0.js",
+    "name": "Index",
+    "src": "resources/js/pages/Users/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_MainCard-EiJ0hFCZ.js",
+      "_index-pNJpYmNc.js",
+      "_dateId-CjFr9C4o.js",
+      "_formik.esm-BQN2HfW2.js",
+      "_index.esm-ChsRrnLc.js",
+      "_VisibilityOff-CGhNU3wL.js",
+      "_Grid-eHh76ROR.js",
+      "_Button-ZaiS309R.js",
+      "_TextField-BIRWMQ-U.js",
+      "_TableSortLabel-bmnzR-5t.js",
+      "_Paper-DYZpTLBk.js",
+      "_OutlinedInput-BTrjfxB3.js",
+      "_AnimateButton-7VoLqtHA.js",
+      "_FormControlLabel-lktuA6rQ.js",
+      "_Checkbox-CT_28h44.js",
+      "_MenuItem-DwkVvZLw.js",
+      "_DialogActions-DFZmVKZj.js",
+      "_Typography-Bqs20sjh.js",
+      "_Card-Dde8zWup.js",
+      "_styled-C0FZHnBx.js",
+      "_dividerClasses-bW8O2ERs.js",
+      "_ButtonBase-BaSKCIsM.js",
+      "_Box-D1kdO_5C.js",
+      "_Menu-p9oL4fEs.js",
+      "_useTheme-8gOWLki3.js",
+      "_useControlled-DdB-UfLM.js",
+      "_mergeSlotProps-BjPRQx-Q.js",
+      "_List-CXyXSyP1.js",
+      "_Collapse-DUD3BrRl.js",
+      "_Avatar-CuEdzbgj.js",
+      "_useSlot-Do-Z_5BL.js",
+      "_colorManipulator-C-bup5Lf.js",
+      "_Stack-DwGIaWtF.js",
+      "_ListItemText-NVhIwd6v.js",
+      "_listItemTextClasses-DpneyaND.js",
+      "_listItemIconClasses-mB_Wx-8p.js",
+      "_TableChartOutlined-lP9Afxo6.js",
+      "_createSvgIcon-DLXAJmCt.js",
+      "_constant-BW3H_i8K.js",
+      "_SwitchBase-D0rw31SM.js"
+    ]
+  }
+}
