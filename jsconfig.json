@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "types": ["vite/client"],
+        "allowJs": true,
+        "module": "commonjs",
+        "moduleResolution": "Node",
+        "jsx": "react-jsx",
+        "strict": true,
+        "isolatedModules": true,
+        "target": "es5",
+        "lib": ["es2017", "dom"],
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "noEmit": true,
+        "paths": {
+            "@/*": ["./resources/js/*"]
+        }
+    },
+    "include": [
+        "vite.config.js",
+        "resources/js/**/*.js",
+        "resources/js/**/*.jsx"
+    ]
+}

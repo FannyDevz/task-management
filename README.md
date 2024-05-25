@@ -1,6 +1,10 @@
+
+
 # Digikarir
 
 Digikarir is an application for managing task in digitalku.
+
+![Application](/docs/img1.png)
 
 ## Project Status
 
@@ -52,6 +56,16 @@ Make sure you have PHP Version 8.2+ and Composer and NPM installed on your machi
     cp .env.example .env
     ```
 
+   Note : change `FILESYSTEM_DISK` dari `local` ke `s3` untuk menggunakan penyimpanan aws
+   Jika Menggunakan AWS jangan lupa setting :
+   ```
+   AWS_ACCESS_KEY_ID=
+   AWS_SECRET_ACCESS_KEY=
+   AWS_DEFAULT_REGION=us-east-1
+   AWS_BUCKET=
+   AWS_USE_PATH_STYLE_ENDPOINT=false
+   ```
+
 6. Generate the application key:
 
     ```bash
@@ -70,10 +84,10 @@ Make sure you have PHP Version 8.2+ and Composer and NPM installed on your machi
 9. Change Username and password admin:
 
     ```bash
-    /database/seeders/DatabaseSeeder.php
+    /database/seeders/UserSeeder.php
     ```
-   (Default) Run data:
-   Note : Username / Password = admin / password
+   (Default Tanpa Dirubah) :
+   Username / Password = admin / password
 
 10. Add Data To Database
  
@@ -81,7 +95,7 @@ Make sure you have PHP Version 8.2+ and Composer and NPM installed on your machi
    php artisan db:seed
    ```
 
-11. Start the local server [Tidak Perlu Dijalankan]:
+11. Start the local server [Tidak Perlu Dijalankan di production]:
 
     ```bash
     php artisan serve

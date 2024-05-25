@@ -1,0 +1,17 @@
+{
+    "name": "DigiKarir",
+    "short_name": "DK",
+    "start_url": "/index.php",
+    "background_color": "#6777ef",
+    "description": "DigiKarir",
+    "display": "standalone",
+    "theme_color": "#6777ef",
+    "icons": [
+        {
+            "src": "phone-logo.PNG",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
